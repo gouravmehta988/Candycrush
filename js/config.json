@@ -1,0 +1,21 @@
+{
+    "level1": {
+      "timeLimit": 10,
+      "scoreTarget": 20,
+      "rows": 8,
+      "columns": 5
+    },
+    "level2":{
+      "timeLimit2":20,
+      "scoreTarget2": 50,
+      "rows": 8,
+      "columns": 5
+    },
+    "level3":{
+      "timeLimit3":25,
+      "scoreTarget3": 100,
+      "rows": 8,
+      "columns": 5
+    }
+  }
+  
